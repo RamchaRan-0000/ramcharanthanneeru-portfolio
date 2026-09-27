@@ -286,8 +286,8 @@ export const portfolioData = {
         "JavaScript (ES6+)",
         "Lucide Icons",
       ],
-      github: "https://github.com/ramcharanthanneeru/portfolio",
-      liveDemo: "https://ramcharanthanneeru.github.io/portfolio/",
+      github: "https://github.com/ramcharan-0000/ramcharanthanneeru-portfolio",
+      liveDemo: "https://ramcharan-0000.github.io/ramcharanthanneeru-portfolio/",
       metrics: "Sub-400ms Vite Build & 100% Responsive",
       architecture:
         "React Component Tree -> Tailwind Utility Styling -> Theme Context & LocalStorage -> Lucide Vector Icons -> Accessible Modals.",
