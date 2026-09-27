@@ -1,6 +1,6 @@
 # T. Ramcharan Teja — Developer Portfolio & ATS Resume Suite
 
-A modern, high-performance portfolio and recruiter-oriented ATS resume suite engineered with **React 19**, **Tailwind CSS v4**, and **Vite**. Modeled after the architectural structure and aesthetics of [hemkesh-portfolio.vercel.app](https://hemkesh-portfolio.vercel.app/).
+A modern, high-performance portfolio and recruiter-oriented ATS resume suite engineered with **React 19**, **Tailwind CSS v4**, and **Vite**.
 
 ---
 
