@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ramcharanthanneeru-portfolio/',
+  // base defaults to '/' which is correct for Vercel
   plugins: [
     react(),
     tailwindcss(),
