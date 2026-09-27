@@ -18,9 +18,8 @@ export const portfolioData = {
       phoneRaw: "8143034680",
       github: "https://github.com/ramcharanthanneeru",
       linkedin: "https://www.linkedin.com/in/ramcharan-teja-thanneeru",
-      leetcode: "https://leetcode.com/",
-      hackerrank: "https://www.hackerrank.com/",
-      resumePdf: "#",
+      leetcode: "https://leetcode.com/u/ramcharanthanneeru/",
+      hackerrank: "https://www.hackerrank.com/profile/ramcharanthanneeru",
     },
   },
 
@@ -288,7 +287,7 @@ export const portfolioData = {
         "Lucide Icons",
       ],
       github: "https://github.com/ramcharanthanneeru/portfolio",
-      liveDemo: "#",
+      liveDemo: "https://ramcharanthanneeru.github.io/portfolio/",
       metrics: "Sub-400ms Vite Build & 100% Responsive",
       architecture:
         "React Component Tree -> Tailwind Utility Styling -> Theme Context & LocalStorage -> Lucide Vector Icons -> Accessible Modals.",

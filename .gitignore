@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Chrome DevTools temp data
+chrome-temp/
+chrome_out.html
+check_dom.cjs
